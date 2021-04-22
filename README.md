@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaal110
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Computer science and engineering
+- 🌱 I’m currently student Computer science and engineering
 - 💞️ I’m looking to collaborate on anything new
 - 📫 How to reach me 
 
