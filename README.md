@@ -1,4 +1,4 @@
-## Hi there, 👋  I'm Shakib Khan
+## Hi there, 👋  I'm Kaal Harir
 ### Python Dev | Data Scientist |  Machine Learning Enthusiastic | DevOps 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. & I’ve completed my graduation from CSE year of 2021. -->
@@ -15,7 +15,7 @@
 -->
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challenges.
 <br>
-<img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="300px"/>
+<img align="right" src="https://github.com/kaal110/-/blob/master/resource/HelloWorld.gif" width="300px"/>
 
 - 🔭 I’m currently working on Project Based Topics
 - 🌱 I’m currently learning Deep learning & Economics 
@@ -26,7 +26,7 @@ I want to make difference and willing to work hard for skillful career rather th
 
 [<img src="https://github.com/kaal110/-/blob/master/resource/social/facebook-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Facebook"/>](https://www.facebook.com/kaal110/)
 [<img src="https://github.com/uannabi/-/blob/master/resource/social/linkedin-ar21.svg" height="50em" align="center" alt="Follow Uannabi on LinkedIn"/>](https://www.linkedin.com/in/kaal-harir-9443471a6/) 
-[<img src="https://github.com/kaal110/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>](https://twitter.com/Sakib_kh_an)
+[<img src="https://github.com/kaal110/-/blob/master/resource/social/twitter-ar21.svg" height="50em" align="center" alt="Follow Uannabi on Twitter"/>]
 
 ## Experienced with 
 <p align="center" >
